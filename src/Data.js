@@ -8,6 +8,10 @@ import web5 from "../src/videofile/odia.mp4";
 import web6 from "../src/videofile/Tennis.mp4";
 import web7 from "../src/videofile/usain.mp4";
 import web8 from "../src/videofile/parkour.mp4";
+import web9 from "../src/videofile/Arjun.mp4";
+import web10 from "../src/videofile/fun.mp4";
+import web11 from "../src/videofile/botal.MP4";
+import web12 from "../src/videofile/nana.mp4";
 
 const Data = [
     {
@@ -73,5 +77,27 @@ const Data = [
       
         
     },
+    {
+        videosrc: web9,
+        title: "Arjun ",
+        text: "Great singer in mix up english and hindi"
+    },
+    {
+        videosrc: web10,
+        title: "fun ",
+        text: "funny dance by cricket star"
+    },
+    {
+        videosrc: web11,
+        title: "botal",
+        text: "song by angry lover "
+    },
+    {
+    videosrc: web12,
+    title: " Nanapatekar",
+    text: "comic way of bollywood star "
+    }
+
+
 ]
 export default Data;

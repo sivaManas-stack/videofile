@@ -7,9 +7,7 @@ import Data from "./Data"
 
 
 const Video = ()=>{
-
       
-        
   return (
     <>
   
@@ -28,11 +26,7 @@ const Video = ()=>{
                                  />
                                  
                       })}
-                                              </div>
-                      
-                  
-                      
-
+                  </div>
  
    </>
   );

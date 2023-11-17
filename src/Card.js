@@ -18,10 +18,8 @@ const Card = (props)=>{
     <h5 className="card-title">{props.title}</h5>
     <p className="card-text">{props.text}</p>
    <ul className= "super">
-   <li> <FaThumbsUp onClick ={""}/> </li>
-   <li> <FaRegThumbsDown onClick ={""}/></li>
-   <li> <FaCommentDots onClick ={""}/></li>
-   <li> <FaReact onClick ={""}/></li>
+  
+
     </ul>
 
 </div>
